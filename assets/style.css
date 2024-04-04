@@ -2,6 +2,7 @@ body {
     font-family: 'Open Sans', sans-serif;
     font-size: 16px;
     line-height: 1;
+    background-color: #8b93ff;
   }
   
   textarea {
@@ -9,8 +10,9 @@ body {
     border: none;
     resize: none;
     color: #000000;
-    border-left: 1px solid black;
+    border-left: 4px solid #d8d7f8;
     padding: 10px;
+    background-color: #fff7fc;
   }
   
   .jumbotron {
@@ -18,7 +20,7 @@ body {
     background-color: transparent;
     color: black;
     border-radius: 0;
-    border-bottom: 10px solid black;
+    border-bottom: 10px solid #f7e4ba;
   }
   
   .description {
